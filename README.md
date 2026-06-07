@@ -64,7 +64,7 @@ httpx (service communication)
 
 1. Clone Repository:
 
-git clone https://github.com/YOUR_USERNAME/Clippify---AI-Shorts-Generator-Video-Tools.git
+git clone https://github.com/NayabAshraf/Clippify---AI-Shorts-Generator-Video-Tools.git
    
 cd Clippify---AI-Shorts-Generator-Video-Tools
 
