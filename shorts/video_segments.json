@@ -1,0 +1,37 @@
+[
+  {
+    "start": 0.03,
+    "end": 29.14,
+    "title": "The Power of Authenticity",
+    "reason": "Strong hook with a powerful message about the importance of authenticity",
+    "viral_score": 95
+  },
+  {
+    "start": 1296.2,
+    "end": 1325.53,
+    "title": "Create Before You're Confident",
+    "reason": "Counterintuitive advice that challenges the audience to take action",
+    "viral_score": 93
+  },
+  {
+    "start": 341.87,
+    "end": 367.11,
+    "title": "Stay Focused and Prove Yourself",
+    "reason": "Motivational message with a clear call to action",
+    "viral_score": 92
+  },
+  {
+    "start": 701.93,
+    "end": 729.94,
+    "title": "Believe in Yourself",
+    "reason": "Inspiring message about self-belief and taking action",
+    "viral_score": 91
+  },
+  {
+    "start": 118.8,
+    "end": 148.26,
+    "title": "The False Consensus Effect",
+    "reason": "Interesting psychological concept that challenges the audience's assumptions",
+    "viral_score": 90
+  }
+]

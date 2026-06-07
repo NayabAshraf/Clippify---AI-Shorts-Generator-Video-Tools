@@ -1,0 +1,9 @@
+openai_whisper
+groq
+fastapi
+uvicorn
+python-multipart
+ffmpeg-python
+streamlit
+torch
+opencv-python
