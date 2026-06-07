@@ -82,15 +82,15 @@ pip install -r requirements.txt
 
 https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip?utm_source=chatgpt.com
 
-5. Add Groq API Key:
-
-In services/clip_analyzer_service.py, add your groq api key.
-
 After download:
 
 Extract ZIP, Rename folder to: ffmpeg, Move it to: C:\ffmpeg
 
 Final path should be: C:\ffmpeg\bin\ffmpeg.exe
+
+5. Add Groq API Key:
+
+In services/clip_analyzer_service.py, add your groq api key.
 
 6. Run Services (in separate terminals):
 
